@@ -1,0 +1,15 @@
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.23.0
+plotly>=5.15.0
+
+# Machine Learning & Deep Learning
+tensorflow>=2.13.0
+torch>=2.0.0
+
+# NLP Transformers
+transformers>=4.35.0
+tokenizers>=0.14.0
+
+# Utility
+scikit-learn>=1.2.0
