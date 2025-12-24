@@ -1,0 +1,6 @@
+Models/BERT_Emotion/
+Models/RoBERTa_Emotion/
+Models/LSTM_Emotion/
+*.h5
+*.safetensors
+__pycache__/
